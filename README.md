@@ -1,5 +1,6 @@
 # SAE21
 Dépôt personnel 
 
-- organnisation et immagination du projet,
+- organnisation et imagination du projet,
+- création des gits
 - commencer a mettre en place le projet,
