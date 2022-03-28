@@ -1,5 +1,5 @@
 # SAE21
 Dépôt personnel 
 
-- organnisation et immaginnation du projet,
+- organnisation et immagination du projet,
 - commencer a mettre en place le projet,
