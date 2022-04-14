@@ -6,4 +6,5 @@ Dépôt personnel
 - commencer a mettre en place le projet,
 - début sur GNS3,
 - création des 3 services sur la partie GNS3,
-- 
+- reconfiguration des vlan (car prblm de sauvegarde la derniere fois),
+-  
