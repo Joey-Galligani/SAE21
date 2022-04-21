@@ -8,3 +8,5 @@ Dépôt personnel
 - création des 3 services sur la partie GNS3,
 - reconfiguration des vlan (car prblm de sauvegarde la derniere fois),
 - configuration des ACL, recherche sur configuration du serveur dns et création du petit site internet.
+- Serveur DNS
+- serveur Web interne
